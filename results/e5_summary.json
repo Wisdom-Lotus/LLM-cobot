@@ -1,0 +1,84 @@
+{
+ "rigid_robot": {
+  "succ": 0.8758620689655172,
+  "refu": 1.0,
+  "ct": 11.337582905325664,
+  "ratio": 0.25622259461727914,
+  "tiers": [
+   1.0,
+   1.0,
+   0.6
+  ],
+  "energy": 0.0,
+  "first": {
+   "collision": 10,
+   "human_collision": 19,
+   "contact_speed": 7,
+   "torque": 1,
+   "keep_out": 2,
+   "task": 1
+  }
+ },
+ "rigid": {
+  "succ": 0.8758620689655172,
+  "refu": 1.0,
+  "ct": 11.312742418874684,
+  "ratio": 0.25625304185579656,
+  "tiers": [
+   1.0,
+   1.0,
+   0.6
+  ],
+  "energy": 0.0,
+  "first": {
+   "collision": 10,
+   "human_collision": 20,
+   "contact_speed": 3,
+   "torque": 1,
+   "keep_out": 2,
+   "task": 1
+  }
+ },
+ "soft": {
+  "succ": 0.0,
+  "refu": 0.0,
+  "ct": NaN,
+  "ratio": NaN,
+  "tiers": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "energy": NaN,
+  "first": {
+   "collision": 145,
+   "precision": 145,
+   "semantic": 145,
+   "task": 145,
+   "torque": 145,
+   "human_collision": 28,
+   "contact_speed": 4,
+   "keep_out": 3
+  }
+ },
+ "variable": {
+  "succ": 0.8758620689655172,
+  "refu": 1.0,
+  "ct": 11.312742418874684,
+  "ratio": 0.25625304185579656,
+  "tiers": [
+   1.0,
+   1.0,
+   0.6
+  ],
+  "energy": 0.0,
+  "first": {
+   "collision": 10,
+   "human_collision": 20,
+   "contact_speed": 3,
+   "torque": 1,
+   "keep_out": 2,
+   "task": 1
+  }
+ }
+}
